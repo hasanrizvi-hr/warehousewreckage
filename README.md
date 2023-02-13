@@ -8,3 +8,5 @@ Gameplay
 The game is set in a fully 3D environment, with realistic lighting effects and atmospheric sound to create an immersive experience.
 Players must navigate through the warehouse, using their wits and skills to avoid dangerous obstacles such as conveyor belts, falling crates, and more.
 
+Support
+If you encounter any issues while playing Warehouse Wreckage, please reach out to hasanrizvi101@gmail.com
